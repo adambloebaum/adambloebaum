@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫 About Me:
 
 🔭 I’m currently working on computer vision, machine learning, and biomechanics initiatives
