@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on computer vision, machine learning, and biomechanics initiatives
 - 🌱 I’m currently learning about 3D reconstruction, LLMs with LoRA adapters, and web development
+- 🧰 I most recently built a [neural net for predicting pitching velocity using biomechanics data](https://github.com/adambloebaum/biomech/tree/main/deeplearning)
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adambloebaum) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bl0ebaum) 
 
 # 💻 Tech Stack:
