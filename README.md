@@ -9,6 +9,3 @@
 
 # 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adambloebaum) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bl0ebaum)
-
----
-[![](https://visitcount.itsvg.in/api?id=adambloebaum&icon=0&color=1)](https://visitcount.itsvg.in)
