@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 - 🔭 I’m currently working on computer vision, machine learning, and biomechanics initiatives
-- 🌱 I’m currently learning about 3D reconstruction, LLMs with LoRA adapters, and web development
+- 🌱 I’m currently learning about pose estimation, camera calibration, and web development
 - 🧰 I most recently built a [facial encodings database and recognition software using interviews from the LA Dodgers' star players](https://github.com/adambloebaum/dodger-face/tree/main)
 
 # 💻 Tech Stack:
